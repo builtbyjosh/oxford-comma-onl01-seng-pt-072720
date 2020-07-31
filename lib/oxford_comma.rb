@@ -3,4 +3,5 @@ def oxford_comma(array)
     if array.lenght == 1
       puts "#{item}"
     end
+  end
 end
